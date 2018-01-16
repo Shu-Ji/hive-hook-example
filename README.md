@@ -9,6 +9,8 @@
 
 ## 方法二、自己编译
 
+如果 jar 包不能使用，请自行编:
+
     $ git clone https://github.com/Shu-Ji/hive-hook-example.git
     $ cd hive-hook-example
     $ mvn install
